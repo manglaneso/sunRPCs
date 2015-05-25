@@ -5,19 +5,19 @@ This works on every system supporting sunRPCs. If using Ubuntu make sure to have
 
 There is one server and 4 clients:
 
-**getsize**
+###getsize
 Get the size in bytes of a file on the server file system.
 
-**delete**
+###delete
 Delete a file on the server file system.
 
-**get**
+###get
 Gets a file from the server file system.
 
-**put**
+###put
 Sends a file to the server, which stores it on its file system.
 
 
-**Authors**
+##Authors
 Andrés Manglano Cañizares
 Fayán Leonardo Pardo
